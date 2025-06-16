@@ -110,6 +110,4 @@ A conversational Q\&A system that exclusively uses content from the Occams Advis
 ---
 
 
-## 📜 License
 
-MIT © Your Name
