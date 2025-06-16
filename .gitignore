@@ -6,4 +6,5 @@ qwen3_faiss.index
 cleaned/
 extracted/
 *.log   
-.env       
+.env     
+.DS_Store  
