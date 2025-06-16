@@ -1,0 +1,9 @@
+playright
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+torch
+rapidfuzz
+google-genai
+streamlit
