@@ -5,4 +5,5 @@ qwen3_faiss.index
 *.pyd 
 cleaned/
 extracted/
-*.log          
+*.log   
+.env       
